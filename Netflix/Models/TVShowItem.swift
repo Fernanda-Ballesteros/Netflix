@@ -1,5 +1,5 @@
 import SwiftUI
-struct SeriesItem: Identifiable, Codable {
+struct Series: Identifiable, Codable {
  let id: String
  let title: String
  let image: String
